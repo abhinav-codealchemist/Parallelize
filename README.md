@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/abhinav-codealchemist/Parallelize.svg)](http://hits.dwyl.io/abhinav-codealchemist/Parallelize)
 # Parallelize
 Workload Distribution System
 
